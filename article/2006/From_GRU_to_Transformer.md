@@ -99,7 +99,6 @@ $h_t^n = \sum_{i=1}^t \alpha_i^n V^n(f(x_i))$and, $\alpha_i^n \propto exp(ATT(K^
 
 $$
 h_t = \left[g(h_t^1);~ g(h_t^2);~ …;~ g(h_t^N) \right]
-\end{equation}
 $$
 
 
